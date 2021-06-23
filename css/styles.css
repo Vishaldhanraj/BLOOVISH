@@ -10805,9 +10805,8 @@ body {
     to bottom,
     #000000 0%,
     rgba(0, 0, 0, 0.9) 75%,
-    rgba(0, 0, 0, 0.8) 100%
-  );
-  background-image: url(/assets/img/c11e7a3a-aec5-4400-bc70-c5eeb153b0cd.jpg);
+    rgba(0, 0, 0, 0.8) 100%);
+  background-image: url(/assets/img/1.jpg);
   animation: slide 30s infinite;
 }
 @keyframes slide {
